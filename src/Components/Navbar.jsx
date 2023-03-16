@@ -18,7 +18,7 @@ const Navbar = () => {
       <div data-testid="navbar-home-link">
         <Link to="/">
         <img
-          src={`${url}`}
+          src="https://m.media-amazon.com/images/I/61ZjlBOp+rL._SX679_.jpg"
           width="60px"
           alt="logo"
           style={{display:"block"}}
